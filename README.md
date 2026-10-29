@@ -38,3 +38,10 @@ To specify a different data directory:
 ## Data note
 
 The included event data is synthetic sample data for educational purposes, not real CERN or CMS experimental data.
+
+## Example output
+
+Using the included sample data, the analysis reports:
+
+- `events_01.txt`: 4 events, average energy 21.95 GeV
+- `events_02.txt`: 4 events, average energy 28.45 GeV
